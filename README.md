@@ -62,4 +62,4 @@
 
  - [Github Repository](https://github.com/heropon1k/Readme-Generator)
 
- - [Deployed Site](test)
+ - [Deployed Site]((https://heropon1k.github.io/Readme-Generator/)
