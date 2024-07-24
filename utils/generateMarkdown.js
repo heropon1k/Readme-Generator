@@ -162,7 +162,9 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   console.log(data)
   fullLicense = renderLicenseSection(data.license)
-  let markdown = `  ## Table of Contents
+  let markdown = `  
+  ## ${data.title}
+  ## Table of Contents
 <ol>
 <li>
 <a href="#description"> Description </a>
@@ -229,7 +231,7 @@ Don't forget to give the project a star! Thanks again!\n
   - Email Address: 
   [${data.email}](mailto:${data.email})\n
   ### Project Links: \n
- - [Github Repository](${data.repo})\n
+ - [Github Repository](https://github.com/${data.github}/${data.repo})\n
  - [Deployed Site](${data.deploy})`;
 
   return markdown;
