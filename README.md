@@ -45,7 +45,7 @@
 1. Clone the repo from github (link in the contact section) 
 2. Run "node index.js" in the terminal
 
-   [Tutorial](https://app.screencastify.com/v3/watch/maQIpUpO3OqhHeCPYrgU)
+   [Tutorial](./assets/Untitled%20Video%20July%2024,%202024%205_26%20PM.webm)
 
 
 ## Contact 
