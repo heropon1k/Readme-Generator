@@ -44,15 +44,8 @@
 
 1. Clone the repo from github (link in the contact section) 
 2. Run "node index.js" in the terminal
+   [Tutorial](https://app.screencastify.com/v3/watch/maQIpUpO3OqhHeCPYrgU)
 
-
-
-## License 
- 
-  This project is licensed under Apache License 2.0. For more information please click on the badge below: 
-  
- 
- [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Contact 
  
